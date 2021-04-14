@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thanks for visiting my Portfolio repository. It is currently a work in Progress as I make changes. I chose Bootstrap since it works wonderfully with Django and navigation requests are handled with Python.
 
-Template Name: Laura
-Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Excuse the mess.
+
+Danny
